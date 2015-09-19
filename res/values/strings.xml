@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTerminal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- activity_main里的按钮 -->
+    <string name="btnWifiConnectToComputer">通过Wifi连接到电脑</string>
+    
+
+</resources>
