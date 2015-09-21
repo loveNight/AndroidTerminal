@@ -4,8 +4,7 @@ Android中运行命令行程序的APP
 写这个APP的目的是因为[Wifi连接Android手机调试](http://blog.csdn.net/kinglearnjava/article/details/46794737)时，每次都要输一大串命令，于是想到干脆自己写个APP自动运行命令。
 
 ##演示
-![](screenshot/1.png)
-![](screenshot/2.png)
+![](screenshot/1.png) ![](screenshot/2.png)
 
 ##如何用Wifi连接Android手机调试
 1. 在手机上安装终端App，开启Root权限，打开App，输入以下命令：
